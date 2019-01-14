@@ -1,0 +1,239 @@
+Skeleton
+Armor Class:
+13 (see below)
+Hit Dice:
+1
+No. of Attacks:
+1 weapon
+Damage:
+1d6 or by weapon
+Movement:
+40'
+No. Appearing:
+3d6, Wild 3d10
+Save As:
+Fighter: 1
+Morale:
+12
+Treasure Type:
+None
+XP:
+25
+Skeletons are mindless undead created by an evil Magic-User or Cleric, generally to guard a tomb or treasure hoard, or to act as guards for their creator. They take only ½ damage from edged weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). As with all undead, they can be Turned by a Cleric, and are immune to sleep, charm or hold magic. As they are mindless, no form of mind reading is of any use against them. Skeletons never fail morale, and thus always fight until destroyed.
+
+Zombie
+Armor Class:
+12 (see below)
+Hit Dice:
+2
+No. of Attacks:
+1 weapon
+Damage:
+1d8 or by weapon
+Movement:
+20'
+No. Appearing:
+2d4, Wild 4d6
+Save As:
+Fighter: 2
+Morale:
+12
+Treasure Type:
+None
+XP:
+75
+Zombies are the undead corpses of humanoid creatures. They are deathly slow, but they move silently, are very strong and must be literally hacked to pieces to “kill” them. They take only half damage from blunt weapons, and only a single point from arrows, bolts or sling stones (plus any magical bonus). A zombie never has Initiative and always acts last in any given round. Like all undead, they may be Turned by Clerics and are immune to sleep, charm and hold magics. As they are mindless, no form of mind reading is of any use against them. Zombies never fail morale checks, and thus always fight until destroyed.
+
+Ghoul
+Armor Class:
+14
+Hit Dice:
+2*
+No. of Attacks:
+2 claws/1 bite
+Damage:
+1d4/1d4/1d4, all plus paralysis
+Movement:
+30'
+No. Appearing:
+1d6, Wild 2d8, Lair 2d8
+Save As:
+Fighter: 2
+Morale:
+9
+Treasure Type:
+B
+XP:
+100
+Ghouls are undead monsters which eat the flesh of dead humanoids to survive. They are vile, disgusting carrion-eaters, but are more than willing to kill for food. Those slain by ghouls will generally be stored until they begin to rot before the ghouls will actually eat them.
+Those hit by a ghoul’s bite or claw attack must save vs. Paralyzation or be paralyzed for 2d8 turns. Elves are immune to this paralysis. Ghouls try to attack with surprise whenever possible, striking from behind tombstones and bursting from shallow graves; when these methods are employed, they are able to surprise opponents on 1-3 on 1d6. Like all undead, they may be Turned by Clerics and are immune to sleep, charm and hold magics.
+Humanoids bitten by ghouls may be infected with ghoul fever. Each time a humanoid is bitten, there is a 5% chance of the infection being passed. The afflicted humanoid is allowed to save vs. Death Ray; if the save is failed, the humanoid dies within a day.
+An afflicted humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the knowledge or abilities he or she possessed in life. The newly-risen ghoul is not under the control of any other ghouls, but hungers for the flesh of the living and behaves like any other ghoul in all respects.
+
+Wight
+Armor Class:
+15 †
+Hit Dice:
+3*
+No. of Attacks:
+1 touch
+Damage:
+Energy drain (1 level)
+Movement:
+30'
+No. Appearing:
+1d6, Wild 1d8, Lair 1d8
+Save As:
+Fighter: 3
+Morale:
+12
+Treasure Type:
+B
+XP:
+175
+A wight’s appearance is a weird and twisted reflection of the form it had in life. A wight is about the height and weight of a human. Wights do not possess any of the abilities they had in life.
+If a wight touches (or is touched by) a living creature, that living creature suffers one level of energy drain (as described in the Encounter section). No saving throw is allowed. Striking a wight with a weapon does not count as “touching” it.
+Any humanoid slain by a wight becomes a wight by the next sunset (but not less than 12 hours later). Wight spawn are under the command of the wight that created them and remain enslaved until its death.
+Like all undead, wights may be Turned by Clerics and are immune to sleep, charm and hold magics. Wights are harmed only by silver or magical weapons, and take only half damage from burning oil.
+
+Wraith
+Armor Class:
+15 ‡
+Hit Dice:
+4**
+No. of Attacks:
+1 touch
+Damage:
+1d6 + energy drain (1 level)
+Movement:
+Fly 80'
+No. Appearing:
+1d4, Lair 1d6
+Save As:
+Fighter: 4
+Morale:
+12
+Treasure Type:
+E
+XP:
+320
+Wraiths are incorporeal creatures born of evil and darkness. In some cases, the grim silhouette of a wraith might appear armored or outfitted with weapons. This appearance does not affect the creature’s AC or combat abilities but only reflects the shape it had in life.
+Like all undead, they may be Turned by Clerics and are immune to sleep, charm and hold magics. Due to their incorporeal nature, they cannot be harmed by non-magical weapons.
+
+Mummy
+Armor Class:
+17 ‡ (see below)
+Hit Dice:
+5**
+No. of Attacks:
+1 touch + disease
+Damage:
+1d12 + disease
+Movement:
+20'
+No. Appearing:
+1d4, Lair 1d12
+Save As:
+Fighter: 5
+Morale:
+12
+Treasure Type:
+D
+XP:
+450
+Mummies are undead monsters, linen-wrapped preserved corpses animated through the auspices of dark desert gods best forgotten. Most mummies are 5 to 6 feet tall and weigh about 120 pounds.
+As they are undead, mummies are immune to sleep, charm and hold magic. They can only be injured by spells, fire, or magical weapons; furthermore, magic weapons do only half damage, while any sort of fire-based attack does double damage. Those injured by mummy attacks will contract mummy rot, a disease that prevents normal or magical healing; a cure disease spell must be applied to the victim before he or she may again regain hit points.
+
+Spectre
+Armor Class:
+17 ‡
+Hit Dice:
+6**
+No. of Attacks:
+1 touch
+Damage:
+Energy drain 2 levels/touch
+Movement:
+Fly 100'
+No. Appearing:
+1d4, Lair 1d8
+Save As:
+Fighter: 6
+Morale:
+11
+Treasure Type:
+E
+XP:
+610
+A spectre looks much as it did in life and can be easily recognized by those who knew the individual or have seen the individual’s face in a painting or a drawing. In many cases, the evidence of a violent death is visible on its body. A spectre is roughly human-sized and is weightless.
+Like all undead, they may be Turned by Clerics and are immune to sleep, charm and hold magics. Due to their incorporeal nature, they cannot be harmed by non-magical weapons.
+
+Vampire
+Armor Class:
+18 to 20 ‡
+Hit Dice:
+7** to 9** (+8)
+No. of Attacks:
+1 weapon or special
+Damage:
+1d8 or by weapon or special
+Movement:
+40' Fly 60'
+No. Appearing:
+1d6, Wild 1d6, Lair 1d6
+Save As:
+Fighter: 7 to 9 (as Hit Dice)
+Morale:
+11
+Treasure Type:
+F
+XP:
+800 - 1,225
+Vampires appear just as they did in life, although their features are often hardened and feral, with the predatory look of wolves. They often embrace finery and decadence and may assume the guise of nobility. Despite their human appearance, vampires can be easily recognized, for they cast no shadows and throw no reflections in mirrors. They speak any languages they knew in life.
+A vampire can charm anyone who meets its gaze; a save vs. Spells is allowed to resist, but at a penalty of -2 due to the power of the charm. This charm is so powerful that the victim will not resist being bitten by the vampire.
+The bite inflicts 1d3 damage, then each round thereafter one energy level is drained from the victim. The vampire regenerates a 1d6 hit points (if needed) for each energy level drained. If the victim dies from the energy drain, he or she will arise as a vampire at the next sunset (but not less than 12 hours later). Vampires spawned in this way are under the permanent control of the vampire who created them.
+If using the bite attack, the vampire suffers a penalty of -5 to Armor Class due to the vulnerable position it must assume. For this reason, the bite is rarely used in combat. Vampires have great Strength, gaining a bonus of +3 to damage when using melee weapons, and a vampire will generally choose to use a melee weapon (or even its bare hands) in combat rather than attempting to bite.
+Vampires are unharmed by non-magical weapons, and like all undead are immune to sleep, charm and hold spells. If reduced to 0 hit points in combat, the vampire is not destroyed, though it may appear to be. The vampire will begin to regenerate 1d8 hours later, recovering 1 hit point per turn, and resuming normal activity as soon as the first point is restored.
+Vampires command the lesser creatures of the night and once per day can call forth 10d10 rats, 5d4 giant rats, 10d10 bats, 3d6 giant bats, or a pack of 3d6 wolves (assuming any such creatures are nearby). These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
+A vampire can assume the form of a giant bat or a dire wolf at will, requiring one round to complete the transformation. The flying movement listed is for the giant bat form. In animal form, the vampire can use the normal attacks for that form. It can't use its other powers while in animal form, except that creatures summoned are still controlled, and charms already in effect continue in effect.
+For all their power, vampires have a number of weaknesses:
+Repelling a Vampire: Vampires cannot tolerate the strong odor of garlic and will not enter an area laced with it. Similarly, they recoil from a mirror or a strongly presented holy symbol. These things don’t harm the vampire – they merely keep it at bay. A recoiling vampire must stay at least 5 feet away from a creature holding the mirror or holy symbol and cannot touch or make melee attacks against the creature holding the item for the rest of the encounter.
+Vampires are also unable to cross running water, although they can be carried over it while resting in their coffins or aboard a ship. They are utterly unable to enter a home or other building unless invited in by someone with the authority to do so. They may freely enter public places, since these are by definition open to all.
+Slaying a Vampire: Reducing a vampire’s hit points to 0 or lower incapacitates it but doesn’t always destroy it, as described above. However, certain attacks can slay vampires. Exposing any vampire to direct sunlight disorients it: It can act for only one round and is destroyed utterly in the next round if it cannot escape. Similarly, immersing a vampire in running water robs it of one-third of its hit points each round until it is destroyed at the end of the third round of immersion. Driving a wooden stake through a vampire’s heart instantly slays the monster. However, it returns to life if the stake is removed, unless the body is destroyed, by water or sunlight as described above, or by burning it completely in a funeral pyre.
+
+Ghost
+Armor Class:
+20 ‡
+Hit Dice:
+10* (+9)
+No. of Attacks:
+1 touch/1 gaze
+Damage:
+1d8 + special
+Movement:
+30'
+No. Appearing:
+1
+Save As:
+Fighter: 10
+Morale:
+10
+Treasure Type:
+E, N, O
+XP:
+1,390
+Ghosts are the spectral remnants of intelligent beings who, for one reason or another, cannot rest easily in their graves. A ghost normally resembles the form it had in life, but sometimes the spiritual form is altered. For instance, the ghost of someone who believed he or she was evil might look a bit demonic. Because they are incorporeal, ghosts may be hit only by magical weapons.
+Seeing a ghost is so terrible that the victim must save vs. Spells or flee for 2d6 rounds. A character or creature who successfully saves vs. a given ghost's fear attack may not be so affected by that ghost again, but of course may still be affected by another.
+A ghost that hits a living target with its touch attack does 1d8 points of damage, 
+and at the same time regenerates the same number of hit
+points. In addition, the victim loses 1 Constitution point.
+Elves and dwarves (and other long-lived creatures such as
+dragons) are allowed a saving throw vs. Death Ray to
+resist this effect, which must be rolled on each hit.
+Characters who lose Constitution appear to have aged. If
+a ghost is fighting a living creature which does not have a
+Constitution score, the GM should assign whatever score
+he or she sees fit.
+Lost Constitution can be regained at a rate of one point per casting of restoration; nothing else (except a wish) can restore Constitution lost to a ghost. If a character's Constitution falls to 0, he or she dies permanently and cannot be raised (but still may be reincarnated).
+Once per turn, a ghost can use telekinesis (as the spell) as if it were a 10th level Magic-User.
+Instead of attacking, a ghost may attempt to possess a living creature. This ability is similar to a magic jar spell (as if cast by a 10th level Magic-User), except that it does not require a receptacle. To use this ability, the ghost must be able to move into the target (so it is possible to outrun it). The target can resist the attack with a successful save vs. Spells. A creature that successfully saves is immune to being possessed by that ghost for 24 hours. If the save fails, the ghost enters the target's body and controls it; control may be maintained until the ghost chooses to leave the victim's body, or until it is driven out by means of a remove curse spell. While it is possessing a living creature, a ghost may not use any of its special abilities.
